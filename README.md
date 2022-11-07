@@ -1,3 +1,3 @@
-# Phase 2 Learning Resources
+# Data Cleaning
 
-This repository contains notebooks and other resources used during the live sessions in phase 2. It was created by the Moringa School for you to learn discover and grow. Errors should never pass silently unless explicitly silenced.
+This repository illustrates the various techniques and methods for cleaning data in python. It was created by the Moringa School for you to learn discover and grow. Errors should never pass silently unless explicitly silenced.
