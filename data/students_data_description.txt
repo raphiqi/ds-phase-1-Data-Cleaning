@@ -1,0 +1,13 @@
+names: The names of the students 
+admission number: The student unique Identification number
+house: The sport house to which a student belongs
+balance: Student school Fee balance
+english: Student score in the subject english
+Kiswahili: Student Score in the subject Kiswahili
+mathematics: Student score in the subject Mathematics
+Science: Student score in the subject science
+sst/cre: Student score in the subject sst/cre
+Creative Arts: Students score in the subject creative arts
+Music: Student score in the subject Music
+
+Its important to note that the scores for each subject should be out of 100%
